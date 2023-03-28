@@ -1,4 +1,4 @@
-# Mixer_fixer
+# Mixer-fixer
 The project aims to create an efficient solution for blending beverages in the right proportion based on the user's preference and popular recipes, using the concepts of model based design. 
 
 The Mixer Fixer device will have a touch interface that will allow users to select their desired drink, and the device will automatically dispense the precise amount of each component from its multiple canisters. 
